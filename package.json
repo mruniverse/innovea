@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.12.1",
     "@types/node": "18.15.11",
     "@types/react": "18.0.37",
     "@types/react-dom": "18.0.11",
+    "antd": "^5.4.2",
+    "antd-css-utilities": "^1.0.3",
+    "newsapi": "^2.4.1",
     "next": "13.3.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
