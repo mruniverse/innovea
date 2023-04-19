@@ -9,3 +9,6 @@ npm i && npm run dev
 Request temporary access to the demo server at https://cors-anywhere.herokuapp.com/ to enable CORS.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+![alt text](/public/images/1.jpg)
+![alt text](/public/images/2.jpg)
