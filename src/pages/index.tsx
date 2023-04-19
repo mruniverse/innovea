@@ -4,6 +4,7 @@ import Head from "next/head";
 import React from "react";
 import { Input, Table } from "antd";
 import { useState } from "react";
+
 export default function Home() {
   const [articles, setArticles] = useState([]);
 
@@ -68,7 +69,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Innovea test</title>
+        <title>NewsAPI Articles</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
