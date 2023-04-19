@@ -6,6 +6,6 @@ First, run the development server:
 npm i && npm run dev
 ```
 
-Configure your ip at https://cors-anywhere.herokuapp.com/ to enable CORS.
+Request temporary access to the demo server at https://cors-anywhere.herokuapp.com/ to enable CORS.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
